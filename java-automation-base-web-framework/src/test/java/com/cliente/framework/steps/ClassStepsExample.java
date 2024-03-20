@@ -1,8 +1,8 @@
-package com.snowmanlabs.framework.steps;
+package com.cliente.framework.steps;
 
 import java.io.IOException;
 
-import com.snowmanlabs.framework.pages.ClassPageExample;
+import com.cliente.framework.pages.ClassPageExample;
 
 import io.cucumber.java.pt.Dado;
 
@@ -11,8 +11,8 @@ import io.cucumber.java.pt.Dado;
  * Classe responsavel por definicao dos steps contidos no gherkin(cucumber)
  * 
  * @author Davi Rodrigues - Analista de QA Senior 1
- * @since Agosto/2020
- * @version 0.1 - Snowman Labs
+ * @since Agosto/2022
+ * @version 0.1 - Cliente XXXXX
  * 
  */
 

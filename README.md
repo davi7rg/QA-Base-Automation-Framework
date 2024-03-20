@@ -1,11 +1,11 @@
 # Framework's Base de Automação de Testes
 Projeto desenvolvido com a intenção de deter a base dos projetos de automação de testes
-- [Web (Front-End)](https://gitlab.com/snowman-labs/devops/qa-base-automation-framework/-/blob/master/README.md#framework-base-de-automa%C3%A7%C3%A3o-web-front-end-java)
+- [Web (Front-End)]
 - API (Back-End) - *À desenvolver*
 - Mobile (Android | iOS) - *À desenvolver*
 
 ## Framework Base de Automação Web (Front-End) - JAVA
-[Projeto base para utilização na automação de projetos Web (Front-End) - JAVA](https://gitlab.com/snowman-labs/devops/qa-base-automation-framework/-/tree/master/java-automation-base-web-framework)
+[Projeto base para utilização na automação de projetos Web (Front-End) - JAVA]
 
 ### Começando
 Essas instruções fornecerão um entendimento completo do projeto **"Framework Base de Automação Web (Front-End) - JAVA"** bem como do seu uso para desenvolvimento de projetos de automação de testes. 
@@ -14,7 +14,7 @@ Consulte "Pré-Requisitos" para obter notas sobre a configuração do ambiente n
 ### Pré-Requisitos
 1. [Java JDK 8 ](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 2. [Eclipse IDE 2020-06 Enterprise Java Developers](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-enterprise-java-developers)
-3. [Cucumber](https://gitlab.com/snowman-labs/devops/qa-base-automation-framework/-/edit/master/README.md#instalando-o-cucumber)
+3. [Cucumber]
 
 ### Instalando o Cucumber
 Após concluído corretamente os passos anteriores, com o Eclipse IDE aberto:
@@ -46,11 +46,11 @@ O Framework está representado na seguinte estrutura:
 ```
 ▼ java-automation-base-web-framework
   ▼ src/test/java
-    ► com.snowmanlabs.framework.hooks
-    ► com.snowmanlabs.framework.pages
-    ► com.snowmanlabs.framework.runner
-    ► com.snowmanlabs.framework.steps
-    ► com.snowmanlabs.framework.utils
+    ► com.cliente.framework.hooks
+    ► com.cliente.framework.pages
+    ► com.cliente.framework.runner
+    ► com.cliente.framework.steps
+    ► com.cliente.framework.utils
   ▼ src/test/resources
     ► chromedriver
     ► evidencias
@@ -65,19 +65,19 @@ O Framework está representado na seguinte estrutura:
 ### Explicando Pacotes
 Pacotes contendo as classes **.java** estão contidos no diretório **src/test/java**
 
-► com.snowmanlabs.framework.hooks
+► com.cliente.framework.hooks
 > Pacote que contém a classe responsável pela configuração da execução dos testes
 
-► com.snowmanlabs.framework.pages
+► com.cliente.framework.pages
 > Pacote que contém as classes responsáveis pelo mapeamento dos elementos das páginas bem como a lógica de validação dos testes
 
-► com.snowmanlabs.framework.runner
+► com.cliente.framework.runner
 > Pacote que contém a classe responsável por iniciar a execução dos testes
 
-► com.snowmanlabs.framework.steps
+► com.cliente.framework.steps
 > Pacote que contém as classes responsáveis pelo passo a passo dos cenários e casos de testes
 
-► com.snowmanlabs.framework.utils
+► com.cliente.framework.utils
 > Pacote que contém a classe de métodos gerais a todos os projetos bem e a classe responsável pela geração do relatório de execução
 
 ### Explicando Pastas

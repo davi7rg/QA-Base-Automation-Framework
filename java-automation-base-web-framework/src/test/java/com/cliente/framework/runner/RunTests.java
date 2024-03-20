@@ -1,4 +1,4 @@
-package com.snowmanlabs.framework.runner;
+package com.cliente.framework.runner;
 
 import org.junit.runner.RunWith;
 
@@ -10,8 +10,8 @@ import io.cucumber.junit.CucumberOptions;
  * Classe que sera executada para que se inicie a bateria de testes
  * 
  * @author Davi Rodrigues - Analista de QA Senior 1
- * @since Agosto/2020
- * @version 0.1 - Snowman Labs
+ * @since Agosto/2022
+ * @version 0.1 - Cliente XXXXX
  * 
  */
 

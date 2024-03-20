@@ -1,4 +1,4 @@
-package com.snowmanlabs.framework.utils;
+package com.cliente.framework.utils;
 
 import java.io.IOException;
 
@@ -9,15 +9,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.snowmanlabs.framework.hooks.Hooks;
+import com.cliente.framework.hooks.Hooks;
 
 /**
  * 
  * Classe responsavel pela implementacao de metodos gerais que sao comuns a todos os projetos de automacao desenvolvidos
  * 
  * @author Davi Rodrigues - Analista de QA Senior 1
- * @since Agosto/2020
- * @version 0.1 - Snowman Labs
+ * @since Agosto/2022
+ * @version 0.1 - Cliente XXXXX
  * 
  */
 

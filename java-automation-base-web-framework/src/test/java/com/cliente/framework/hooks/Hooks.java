@@ -1,4 +1,4 @@
-package com.snowmanlabs.framework.hooks;
+package com.cliente.framework.hooks;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -24,8 +24,8 @@ import io.cucumber.java.Scenario;
  * dos testes
  * 
  * @author Davi Rodrigues - Analista de QA Senior 1
- * @since Agosto/2020
- * @version 0.1 - Snowman Labs
+ * @since Agosto/2022
+ * @version 0.1 - Cliente XXXXX
  * 
  */
 

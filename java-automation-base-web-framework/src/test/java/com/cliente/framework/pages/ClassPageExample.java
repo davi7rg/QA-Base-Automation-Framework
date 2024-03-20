@@ -1,4 +1,4 @@
-package com.snowmanlabs.framework.pages;
+package com.cliente.framework.pages;
 
 import java.io.IOException;
 
@@ -6,16 +6,16 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.snowmanlabs.framework.hooks.Hooks;
-import com.snowmanlabs.framework.utils.GeneralMethods;
+import com.cliente.framework.hooks.Hooks;
+import com.cliente.framework.utils.GeneralMethods;
 
 /**
  * 
  * Classe reponsavel por mapeamento de objetos e implementacao dos metodos de validacao dos steps dos testes
  * 
  * @author Davi Rodrigues - Analista de QA Senior 1
- * @since Agosto/2020
- * @version 0.1 - Snowman Labs
+ * @since Agosto/2022
+ * @version 0.1 - Cliente XXXXX
  * 
  */
 
