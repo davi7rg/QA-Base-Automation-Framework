@@ -1,11 +1,11 @@
 # Framework's Base de Automação de Testes
 Projeto desenvolvido com a intenção de deter a base dos projetos de automação de testes
-- [Web (Front-End)]
+- [Web (Front-End)](https://github.com/davi7rg/QA-Base-Automation-Framework?tab=readme-ov-file#framework-base-de-automa%C3%A7%C3%A3o-web-front-end---java)
 - API (Back-End) - *À desenvolver*
 - Mobile (Android | iOS) - *À desenvolver*
 
 ## Framework Base de Automação Web (Front-End) - JAVA
-[Projeto base para utilização na automação de projetos Web (Front-End) - JAVA]
+[Projeto base para utilização na automação de projetos Web (Front-End) - JAVA](https://github.com/davi7rg/QA-Base-Automation-Framework?tab=readme-ov-file#framework-base-de-automa%C3%A7%C3%A3o-web-front-end---java)
 
 ### Começando
 Essas instruções fornecerão um entendimento completo do projeto **"Framework Base de Automação Web (Front-End) - JAVA"** bem como do seu uso para desenvolvimento de projetos de automação de testes. 
@@ -14,7 +14,7 @@ Consulte "Pré-Requisitos" para obter notas sobre a configuração do ambiente n
 ### Pré-Requisitos
 1. [Java JDK 8 ](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 2. [Eclipse IDE 2020-06 Enterprise Java Developers](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-enterprise-java-developers)
-3. [Cucumber]
+3. [Cucumber](https://github.com/davi7rg/QA-Base-Automation-Framework?tab=readme-ov-file#instalando-o-cucumber)
 
 ### Instalando o Cucumber
 Após concluído corretamente os passos anteriores, com o Eclipse IDE aberto:
